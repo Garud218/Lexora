@@ -1,5 +1,6 @@
 # Lexora
 Lexora: A Platform to simplify legal advice
+Google Play Store: https://play.google.com/store/apps/details?id=com.lexora.advisertalk
 
 Copyright 2025 Lexora SLA. All Rights Reserved.
 
